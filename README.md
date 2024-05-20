@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project/Work Experience/Training       |
 |-----------------------------------------------|---------------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a hhref="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hhref="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | Blacktech Hub|
 | Incident Response Planning and Execution      |Cybersecurity for Energy Training - Ontario Tech Talent|
 | NIST Cybersecurity Framework                  | Blacktech Hub|
@@ -53,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>
   
 ## Trainings
 - <a href="https://imgur.com/a/mEGdVCE">Cybersecurity for Energy - Ontario Tech Talent</a>
