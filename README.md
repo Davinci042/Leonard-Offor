@@ -9,7 +9,7 @@ I am a mid-career professional with a profound interest in technology and a dedi
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to protect and defend information technology assets to enable my organization improve its security posture to achieve its business objectives in an ever-evolving threat landscape.
+My journey after my degree in Biochemistry from the University of Nigeria started with 10 years as a manufacturing supervisor in the Fast moving consumer goods industry. My lifelong learning characteristic led me to develop a passion for cybersecurity, and I have transitioned into this field with 2 years of basic experience with Blacktech hub Canada. I aim to develop further by specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to protect and defend information technology assets to enable my organization improve its security posture to achieve its business objectives in an ever-evolving threat landscape.
 
 ## Skills
 
@@ -18,8 +18,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | Blacktech Hub|
-| Incident Response Planning and Execution      |Cybersecurity for Energy Training - Ontario Tech Talent|
-| NIST Cybersecurity Framework                  | Blacktech Hub|
+| Incident Response Planning and Execution      | <a href="https://github.com/Davinci042/Ontario-Tech-Cybersecurity-for-Energy-">Cybersecurity for Energy Training - Ontario Tech Talent</a>|
+| NIST Cybersecurity Framework                  |  <a href="https://github.com/Davinci042/Ontario-Tech-Cybersecurity-for-Energy-">Cybersecurity for Energy Training - Ontario Tech Talent</a>|
 | MITRE ATT&CK Framework                        | Practical Junior Penetration Tester- TCM Academy|
 
 
@@ -56,6 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>
   
 ## Trainings
-- <a href="https://imgur.com/a/mEGdVCE">Cybersecurity for Energy - Ontario Tech Talent</a>
+-  <a href="https://github.com/Davinci042/Ontario-Tech-Cybersecurity-for-Energy-">Cybersecurity for Energy Training - Ontario Tech Talent</a>
 - <a href="https://imgur.com/a/kEibfnM">Practical Junior Penetration Tester - TCM Academy</a>
 
