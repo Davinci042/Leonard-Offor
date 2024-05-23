@@ -17,7 +17,7 @@ My journey after my degree in Biochemistry from the University of Nigeria starte
 |-----------------------------------------------|---------------------------------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
-| Python Programming                            |<a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a> |
+| Python Programming                            |<a href="https://github.com/Davinci042/Python_jobs">My python jobs</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/Davinci042/Ontario-Tech-Cybersecurity-for-Energy-">Cybersecurity for Energy Training - Ontario Tech Talent</a>|
 | NIST Cybersecurity Framework                  |  <a href="https://github.com/Davinci042/Ontario-Tech-Cybersecurity-for-Energy-">Cybersecurity for Energy Training - Ontario Tech Talent</a>|
 | MITRE ATT&CK Framework                        | Blacktech Hub|
