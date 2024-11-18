@@ -1,19 +1,19 @@
 # Leonard-Offor
-Cybersecurity Professional - Passionate about all defending and protecting information technology assets
+Cybersecurity Professional - Passionate about all things defending and protecting information technology assets
 
 
 # Hello, I'm Leonard Offor
 <a href="https://www.linkedin.com/in/leonard-offor/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a mid-career professional with a profound interest in technology and a dedication to solving complex problems. I am a passionate cybersecurity professional with 2 years’ experience as an Information security analyst seeking to contribute to join a world class security operations center team. Equipped with skill for triaging events and monitoring systems using tools to detect real threats, and actively defended small hybrid networks from cyber threats by applying the knowledge, skills and aptitude gained from my undertaking of several trainings and certifications from COMPTIA, ISC2 and Microsoft to solidify my understanding of cybersecurity principles and frameworks, such as ISO 27001, NIST CSF. I am committed to continuous learning and eager to apply my skills to protect organizations from cyber threats and ensure compliance with industry regulations. 
+I am a mid-career professional with a profound interest in technology and a dedication to solving complex problems. I am currently 13 years into my career as a manufacturing manager in the Food manufacturing industry. My lifelong learning character trait led me to develop a passion for cybersecurity, and I am seeking opportunities to successfully transition into this field. I have taken several computer science and cybersecurity courses like CS050 and a cybersecurity immersion bootcamp with Blacktech hub Canada just to name a few. I have developed some knowledge, skills and aptitude through self study and trainings and certifications from COMPTIA, ISC2 and Microsoft to solidify my understanding of cybersecurity principles and frameworks. I am committed to continuous learning and eager to apply my skills to protect organizations from cyber threats and ensure compliance with industry regulations. I wish to share some of my personal cybersecurity projects on here to show my dedication towards cybersecurity.
 
 ## Objective
 
-My journey after my degree in Biochemistry from the University of Nigeria started with 10 years as a manufacturing supervisor in the Fast moving consumer goods industry. My lifelong learning characteristic led me to develop a passion for cybersecurity, and I have transitioned into this field with 2 years of basic experience with Blacktech hub Canada. I aim to develop further by specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to protect and defend information technology assets to enable my organization improve its security posture to achieve its business objectives in an ever-evolving threat landscape.
+My goal is to continue to learn and develop technical skills required to protect and defend information technology assets to enable my organization and local community improve its digital security posture and eventually secure a role as a cybersecurity professional in a world renowned organization.
 
 ## Skills
 
-| Skill                                         | Associated Project/Work Experience/Training       |
+| Skill                                         | Associated Project/Training       |
 |-----------------------------------------------|---------------------------------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Davinci042/Detection-Lab">Detection Lab</a>|
