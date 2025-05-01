@@ -3,13 +3,12 @@ Cybersecurity Professional - Passionate about all things defending and protectin
 
 
 # Hello, I'm Leonard Offor
-<a href="https://www.linkedin.com/in/leonard-offor/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a mid-career professional with a profound interest in technology and a dedication to solving complex problems. I am currently 13 years into my career as a manufacturing manager in the Food manufacturing industry. My lifelong learning character trait led me to develop a passion for cybersecurity, and I am seeking opportunities to successfully transition into this field. I have taken several computer science and cybersecurity courses like CS050 and a cybersecurity immersion bootcamp with Blacktech hub Canada just to name a few. I have developed some knowledge, skills and aptitude through self study and trainings and certifications from COMPTIA, ISC2 and Microsoft to solidify my understanding of cybersecurity principles and frameworks. I am committed to continuous learning and eager to apply my skills to protect organizations from cyber threats and ensure compliance with industry regulations. I wish to share some of my personal cybersecurity projects on here to show my dedication towards cybersecurity.
+My lifelong learning character trait led me to develop a passion for cybersecurity. I have developed some knowledge, skills and aptitude through self-study and pieces of training and certifications from COMPTIA, ISC2 and Microsoft to solidify my understanding of cybersecurity principles and frameworks. I am committed to continuous learning and eager to apply my skills to protect organizations from cyber threats and ensure compliance with industry regulations. I wish to share some of my cybersecurity projects here to show my dedication to cybersecurity.
 
 ## Objective
 
-My goal is to continue to learn and develop technical skills required to protect and defend information technology assets to enable my organization and local community improve its digital security posture and eventually secure a role as a cybersecurity professional in a world renowned organization.
+My goal is to continue to learn and develop technical skills required to protect and defend information technology assets to enable my organization and local community improve its digital security posture and eventually secure a role as a cybersecurity professional in a world-renowned organization.
 
 ## Skills
 
